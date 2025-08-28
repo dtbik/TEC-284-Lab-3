@@ -1,0 +1,1 @@
+This project uses a light sensor on the Arduino board to read how light or dim it is around the sensor, and uses a Serial monitor number to put into a variable that allows it to print a string based on how light or dark it is. It can also turn on an LED if the light sensor reads a low enough number.
